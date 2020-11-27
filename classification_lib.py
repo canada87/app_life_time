@@ -1,8 +1,4 @@
-import sys
-sys.path.insert(0, 'C:/Users/Max Power/OneDrive/ponte/programmi/python/progetto2/AJ_lib')
 from AJ_draw import disegna as ds
-
-from datetime import datetime, timedelta, date
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
